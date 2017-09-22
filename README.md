@@ -13,3 +13,7 @@
 - [springCloud介绍](springCloud/springCloud.md)
 ## 区块链技术
 - [区块链技术简介](blockchain/blockchain.md)
+
+# 生活心得
+## 对佛教的理解
+- 正见佛教观读有感
